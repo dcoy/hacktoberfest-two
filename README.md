@@ -8,3 +8,4 @@ If you would like to contribute, please add a "Pickle Rick" file in the language
 ### List of Contributors
 
 * Steven Suwatanapongched(@sunpech)
+* Amit Singh Rajawat(@amitsingh-24)
